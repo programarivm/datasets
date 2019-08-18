@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDataGrid from 'react-data-grid';
-import logo from './logo.svg';
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 const columns = [
   { key: 'id', name: 'ID' },
